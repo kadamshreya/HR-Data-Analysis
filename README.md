@@ -1,0 +1,1 @@
+This project focuses on building an HR Employee Analytics Dashboard using Power BI. The dashboard provides actionable insights into employee performance, attrition, attendance, and engagement. It leverages DAX (Data Analysis Expressions) for advanced calculations and interactive visualizations, enabling HR teams to make data-driven decisions effectively.
